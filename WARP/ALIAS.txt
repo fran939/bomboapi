@@ -1,6 +1,6 @@
-garden = ga,
-murkwater = murk,
-dragontail = dt,
-museum = mu,
-dh = dn
-bayou = fi
+ga =garden,
+murk =murkwater,
+dt =dragontail,
+mu =museum,
+dn =dh,
+fi =bayou,

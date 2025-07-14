@@ -1,3 +1,5 @@
-galatea = ga,
+garden = ga,
 murkwater = murk,
-dragontail = dt
+dragontail = dt,
+museum = mu,
+dh = dn

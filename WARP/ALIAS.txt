@@ -1,0 +1,3 @@
+galatea = ga,
+murkwater = murk,
+dragontail = dt

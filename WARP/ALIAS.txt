@@ -3,3 +3,4 @@ murkwater = murk,
 dragontail = dt,
 museum = mu,
 dh = dn
+bayou = fi

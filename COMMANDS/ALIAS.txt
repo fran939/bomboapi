@@ -1,0 +1,8 @@
+af = attributemenu,
+f1 = joindungeon catacombs_floor_one,
+f2 = joindungeon catacombs_floor_two,
+f3 = joindungeon catacombs_floor_threee,
+f4 = joindungeon catacombs_floor_four,
+f5 = joindungeon catacombs_floor_five,
+f6 = joindungeon catacombs_floor_six,
+f7 = joindungeon catacombs_floor_seven,

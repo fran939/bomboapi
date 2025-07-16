@@ -4,3 +4,4 @@ dt = dragontail,
 mu = museum,
 dn = dh,
 fi = bayou,
+ku = kuudra

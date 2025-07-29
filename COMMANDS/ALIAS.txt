@@ -46,4 +46,5 @@ bw3 = play bedwars_four_three,
 bw4 = play bedwars_four_four,
 sb = play sb,
 cup = cc x: -152, y: 128, z: -809,
-cups = gfs cup_of_blood
+cups = gfs cup_of_blood,
+nico = party nicolasmv7

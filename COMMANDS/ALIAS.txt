@@ -1,5 +1,4 @@
 af = attributemenu,
-sc = patcher sendcoords,
 entrance = joindungeon catacombs_entrance,
 f1 = joindungeon catacombs_floor_one,
 f2 = joindungeon catacombs_floor_two,

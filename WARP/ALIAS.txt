@@ -7,3 +7,6 @@ fi = bayou,
 ku = kuudra,
 eli = elizabeth,
 cry = crypt,
+is = home,
+dessert = desert,
+warpforge = forge

@@ -1,0 +1,7 @@
+mad = maddox,
+j = jax,
+m = maxwell,
+max = maxwell,
+bu = builder,
+kud = kuudra,
+hop = hoppity,

@@ -48,4 +48,6 @@ cups = gfs cup_of_blood,
 nico = party nicolasmv7,
 cp = chat party,
 cg = chat guild,
-ca = chat all
+ca = chat all,
+m = call maxwell,
+ma = call maddox,

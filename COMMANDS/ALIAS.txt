@@ -49,5 +49,5 @@ nico = party nicolasmv7,
 cp = chat party,
 cg = chat guild,
 ca = chat all,
-gob = viewrecipe enchanted_gold_block,
-gol = viewrecipe enchanted_gold
+gob = viewrecipe ENCHANTED_GOLD_BLOCK,
+gol = viewrecipe ENCHANTED_GOLD

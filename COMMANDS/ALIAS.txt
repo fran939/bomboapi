@@ -50,4 +50,5 @@ cp = chat party,
 cg = chat guild,
 ca = chat all,
 gob = viewrecipe ENCHANTED_GOLD_BLOCK,
-gol = viewrecipe ENCHANTED_GOLD
+gol = viewrecipe ENCHANTED_GOLD,
+i = invite

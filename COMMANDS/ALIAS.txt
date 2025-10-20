@@ -54,4 +54,5 @@ gol = viewrecipe ENCHANTED_GOLD,
 i = invite,
 sh = sethome,
 jex = hex,
-unacosa = pc como pilines
+unacosa = pc como pilines,
+goodboy = pc soy un good boy :D

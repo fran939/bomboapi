@@ -55,5 +55,6 @@ i = invite,
 sh = sethome,
 jex = hex,
 unacosa = pc como pilines,
-goodboy = pc soy un good boy :D
-shimmer = https://www.youtube.com/watch?v=cJqY_fuBIsI
+goodboy = pc soy un good boy :D,
+shimmer = https://www.youtube.com/watch?v=cJqY_fuBIsI,
+tetrio = me como las pollas de 4 en 4

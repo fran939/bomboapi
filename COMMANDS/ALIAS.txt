@@ -56,3 +56,4 @@ sh = sethome,
 jex = hex,
 unacosa = pc como pilines,
 goodboy = pc soy un good boy :D
+shimmer = https://www.youtube.com/watch?v=cJqY_fuBIsI

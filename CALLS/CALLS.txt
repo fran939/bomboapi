@@ -1,4 +1,5 @@
-alchemist, anita, aranya, blacksmith, brynmor, builder, captain ahone, dean, duncan, dusk, einary, elizabeth, elle, fann, fear mongerer, fred, geo, george, hoppity, igrupan, jacob, jax, jotraeline greatforge, kat, kaus, kiara, kuudra gatekeeper, lumber merchant, maddox, maxwell, mort, odger, ophelia, oringo, pablo, plumber joe, queen mismyla, queen_nyx, roddy, rollim, rusty, shifty, sirih, sirius, st_jerry, suus, tia, tomioka, trevor, trinity, vincent, walter, wool weaver, zog, jake
+alchemist, anita, aranya, blacksmith, brynmor, builder, captain ahone, dean, duncan, dusk, einary, elizabeth, elle, fann, fear mongerer, fred, geo, george, hoppity, igrupan, jacob, jax, jotraeline greatforge, kat, kaus, kiara, kuudra gatekeeper, lumber merchant, maddox, maxwell, mort, odger, ophelia, oringo, pablo, plumber joe, queen mismyla, nyx, roddy, rollim, rusty, shifty, sirih, sirius, st_jerry, suus, tia, tomioka, trevor, trinity, vincent, walter, wool weaver, zog, jake
+
 
 
 

@@ -58,4 +58,7 @@ unacosa = pc como pilines,
 goodboy = pc soy un good boy :D,
 shimmer = pc https://www.youtube.com/watch?v=cJqY_fuBIsI,
 tetrio = pc me como las pollas de 4 en 4,
-de = desk
+de = desk,
+g1 = tptoplot 2,
+g2 = tptoplot 3,
+g3 = tptoplot 11
